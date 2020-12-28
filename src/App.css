@@ -1,0 +1,53 @@
+* {
+    border: 20%;
+}
+
+.todoForm{
+    text-align: center;
+    width:50px;
+}
+
+input {
+    border: 3px solid green;
+    margin: 5px;
+    padding: 10px;
+    width: 70%;
+}
+
+li {
+    list-style: none;
+}
+
+.App{
+  margin: auto;
+  margin-top:2%;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+h1 {
+    margin : auto;
+    width: 25%;
+}
+
+button {
+    border: 3px solid green;
+    padding: 10px;
+    width: 20%;
+    position: relative;
+}
+
+.todoItem{
+    display:flex;
+}
+
+.title {
+    margin:20px;
+    overflow-wrap: break-word;
+}
+
+.todoItemButton {
+    margin: 10px;
+}
+
